@@ -21,7 +21,7 @@ R14B may be supported but not tested.
 
 Should you want to clone the freesock repository, you will also require git.
 
-# Build #
+# Install #
 
 * `git clone git://github.com/goofansu/freesock.git`
 
