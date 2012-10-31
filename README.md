@@ -1,9 +1,7 @@
 freesock
 ========
 
-freesock is an socks5 server.
-
-The client is [here](https://github.com/goofansu/freeclient).
+freesock is a socks5 server. Here is the [client](https://github.com/goofansu/freeclient).
 
 You must use client with freesock.
 
