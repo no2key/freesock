@@ -32,20 +32,22 @@ accept(LSock) ->
 % connection request
 loop(Sock) ->
     receive
+        {tcp, Sock, <<5, _, _>>} ->
+            % initial greeting
+            gen_tcp:send(Sock, <<5, 0>>),
+            loop(Sock);
         {tcp, Sock, <<5, 1, 0, Data/binary>>} ->
+            % connection request
             RSock =
                 case Data of
                     <<3, LenDomain, Domain:LenDomain/binary, Port:16>> ->
                         connect_server(binary_to_list(Domain), Port);
                     <<1, IPv4:32, Port:16>> ->
-                        io:format("Request IPv4:~p, Port:~p~n", [IPv4, Port]),
                         connect_server(binary_to_list(IPv4), Port);
                     <<4, IPv6:128, Port:16>> ->
-                        io:format("Request IPv6:~p, Port:~p~n", [IPv6, Port]),
                         connect_server(binary_to_list(IPv6), Port);
                     Other ->
                          % unexpected packages
-                        io:format("skip:~p~n", [Other]),
                         gen_tcp:close(Sock)
                 end,
             case RSock of
