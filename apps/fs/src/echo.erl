@@ -15,7 +15,7 @@ init([]) ->
     {ok, [], 0}.
 
 handle_info(timeout, State) ->
-    {ok, Port} = application:get_env(fs, [port]),
+    {ok, Port} = application:get_env(fs, port),
     {ok, LSock} = gen_tcp:listen(Port, ?TCP_OPTIONS),
     lists:foreach(
         fun(_)->
