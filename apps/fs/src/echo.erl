@@ -6,7 +6,6 @@
 -export ([init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3]).
 
 -define(TCP_OPTIONS, [binary, {packet, 0}, {active, true}, {reuseaddr, true}]).
--define(PORT, 8080).
 
 start_link() ->
     gen_server:start_link(?MODULE, [], []).
@@ -16,7 +15,8 @@ init([]) ->
     {ok, [], 0}.
 
 handle_info(timeout, State) ->
-    {ok, LSock} = gen_tcp:listen(?PORT, ?TCP_OPTIONS),
+    {ok, Port} = application:get_env(fs, [port]),
+    {ok, LSock} = gen_tcp:listen(Port, ?TCP_OPTIONS),
     lists:foreach(
         fun(_)->
             proc_lib:spawn_link(?MODULE, accept, [LSock])
@@ -46,7 +46,7 @@ loop(Sock) ->
                         connect_server(binary_to_list(IPv4), Port);
                     <<4, IPv6:128, Port:16>> ->
                         connect_server(binary_to_list(IPv6), Port);
-                    Other ->
+                    _Other ->
                          % unexpected packages
                         gen_tcp:close(Sock)
                 end,
