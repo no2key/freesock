@@ -43,7 +43,6 @@ Should you want to clone the freesock repository, you will also require git.
 
 * Add support to SSL
 
-
-
-
+# Others #
+Welcome to my [blog](http://goofansu.com).
 
