@@ -1,15 +1,13 @@
 freesock
 ========
 
-freesock is a socks5 server. Here is the [client](https://github.com/goofansu/freeclient).
-
-~~You must use client with freesock.~~
-
-You can use freesock alone (It is a full functional socks5 server), or with client(see Implementation).
+freesock is a socks5 server.
 
 # Notice #
 
-`master` is stable with production quality.
+Branch `master` is stable with production quality.
+
+You can use freesock alone, or with [freeclient](https://github.com/goofansu/freeclient) (see Implementation).
 
 # Implementation #
 
