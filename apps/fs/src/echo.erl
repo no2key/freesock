@@ -1,18 +1,30 @@
 -module(echo).
 -behaviour (gen_server).
 
--export ([accept/1, loop/1, transfer_data/2]).
 -export ([start_link/0]).
 -export ([init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3]).
+-export ([accept/1, loop/1]).
 
 -define(TCP_OPTIONS, [binary, {packet, 0}, {active, true}, {reuseaddr, true}]).
 
+%% ===================================================================
+%% api
+%% ===================================================================
 start_link() ->
     gen_server:start_link(?MODULE, [], []).
 
+%% ===================================================================
+%% gen_server callbacks
+%% ===================================================================
 init([]) ->
     process_flag(trap_exit, true),
     {ok, [], 0}.
+
+handle_call(_R, _F, State) ->
+    {ok, [], State}.
+
+handle_cast(_R, State) ->
+    {ok, State}.
 
 handle_info(timeout, State) ->
     {ok, Port} = application:get_env(fs, port),
@@ -23,6 +35,15 @@ handle_info(timeout, State) ->
         end, lists:duplicate(erlang:system_info(schedulers), dump)),
     {noreply, State}.
 
+terminate(_Reason, _State) ->
+    ok.
+
+code_change(_OldVsn, State, _Extra) ->
+    {ok, State}.
+
+%% ===================================================================
+%% private
+%% ===================================================================
 accept(LSock) ->
     {ok, Sock} = gen_tcp:accept(LSock),
     Pid = proc_lib:spawn_link(?MODULE, loop, [Sock]),
@@ -84,17 +105,3 @@ transfer_data(Sock, RSock) ->
         {tcp_error, RSock, _Reason} ->
             gen_tcp:close(RSock)
     end.
-
-handle_call(_R, _F, State) ->
-    {ok, [], State}.
-
-handle_cast(_R, State) ->
-    {ok, State}.
-
-terminate(_Reason, _State) ->
-    ok.
-
-code_change(_OldVsn, State, _Extra) ->
-    {ok, State}.
-
-

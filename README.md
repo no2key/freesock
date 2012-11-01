@@ -41,7 +41,7 @@ Should you want to clone the freesock repository, you will also require git.
     
 # Todos #
 
-* Add support to SSL
+* ~~Add support to SSL~~ (Supported, please checkout ssl-socks branch.)
 
 # Contact #
 
