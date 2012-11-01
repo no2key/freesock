@@ -3,7 +3,13 @@ freesock
 
 freesock is a socks5 server. Here is the [client](https://github.com/goofansu/freeclient).
 
-You must use client with freesock.
+~~You must use client with freesock.~~
+
+You can use freesock alone (It is a full functional socks5 server), or with client(see Implementation).
+
+# Notice #
+
+`master` is stable with production quality.
 
 # Implementation #
 
