@@ -1,7 +1,7 @@
 freesock
 ========
 
-freesock is a socks5 server.
+freesock is a socks5 server. Inspired by [shadowsocks](https://github.com/clowwindy/shadowsocks).
 
 # Notice #
 
@@ -43,6 +43,8 @@ Should you want to clone the freesock repository, you will also require git.
 
 * Add support to SSL
 
-# Others #
-Welcome to my [blog](http://goofansu.com).
+# Contact #
 
+[My blog](http://goofansu.com)
+
+@[goofansu](http://twitter.com/goofansu)
