@@ -5,8 +5,6 @@
 -export ([init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3]).
 -export ([accept/1, loop/1]).
 
--define(TCP_OPTIONS, [binary, {packet, 0}, {active, true}, {reuseaddr, true}]).
-
 %% ===================================================================
 %% api
 %% ===================================================================
@@ -20,20 +18,21 @@ init([]) ->
     process_flag(trap_exit, true),
     {ok, [], 0}.
 
-handle_call(_R, _F, State) ->
-    {ok, [], State}.
-
-handle_cast(_R, State) ->
-    {ok, State}.
-
 handle_info(timeout, State) ->
     {ok, Port} = application:get_env(fs, port),
-    {ok, LSock} = gen_tcp:listen(Port, ?TCP_OPTIONS),
+    {ok, TcpOptions} = application:get_env(fs, tcp_options),
+    {ok, LSock} = gen_tcp:listen(Port, TcpOptions),
     lists:foreach(
         fun(_)->
             proc_lib:spawn_link(?MODULE, accept, [LSock])
         end, lists:duplicate(erlang:system_info(schedulers), dump)),
     {noreply, State}.
+
+handle_call(_R, _F, State) ->
+    {ok, [], State}.
+
+handle_cast(_R, State) ->
+    {ok, State}.
 
 terminate(_Reason, _State) ->
     ok.
@@ -42,22 +41,26 @@ code_change(_OldVsn, State, _Extra) ->
     {ok, State}.
 
 %% ===================================================================
-%% private
+%% private functions
 %% ===================================================================
 accept(LSock) ->
     {ok, Sock} = gen_tcp:accept(LSock),
-    Pid = proc_lib:spawn_link(?MODULE, loop, [Sock]),
-    gen_tcp:controlling_process(Sock, Pid),
+    inet:setopts(Sock, [{active, false}]),
+    {ok, SslOptions} = application:get_env(fs, ssl_options),
+    {ok, SslSock} = ssl:ssl_accept(Sock, SslOptions),
+    Pid = proc_lib:spawn_link(?MODULE, loop, [SslSock]),
+    ssl:controlling_process(SslSock, Pid),
     accept(LSock).
 
 % connection request
 loop(Sock) ->
+    ssl:setopts(Sock, [{active, true}]),
     receive
-        {tcp, Sock, <<5, _, _>>} ->
+        {ssl, Sock, <<5, _, _>>} ->
             % initial greeting
-            gen_tcp:send(Sock, <<5, 0>>),
+            ssl:send(Sock, <<5, 0>>),
             loop(Sock);
-        {tcp, Sock, <<5, 1, 0, Data/binary>>} ->
+        {ssl, Sock, <<5, 1, 0, Data/binary>>} ->
             % connection request
             RSock =
                 case Data of
@@ -67,18 +70,23 @@ loop(Sock) ->
                         connect_server(binary_to_list(IPv4), Port);
                     <<4, IPv6:128, Port:16>> ->
                         connect_server(binary_to_list(IPv6), Port);
-                    _Other ->
+                    Other ->
                          % unexpected packages
-                        gen_tcp:close(Sock)
+                        error_logger:error_msg("Other:~p~n", [Other]),
+                        ssl:close(Sock)
                 end,
             case RSock of
                 undefined ->
-                    gen_tcp:send(Sock, <<5, 1, 0, Data/binary>>),
-                    gen_tcp:close(Sock);
+                    ssl:send(Sock, <<5, 1, 0, Data/binary>>),
+                    ssl:close(Sock);
                 _ ->
-                    gen_tcp:send(Sock, <<5, 0, 0, Data/binary>>),
+                    ssl:send(Sock, <<5, 0, 0, Data/binary>>),
                     transfer_data(Sock, RSock)
-            end
+            end;
+        Other ->
+            % unexpected packages
+            error_logger:error_msg("Other:~p~n", [Other]),
+            ssl:close(Sock)
     end.
 
 % connect to real server
@@ -90,18 +98,18 @@ connect_server(Address, Port) ->
 
 transfer_data(Sock, RSock) ->
     receive
-        {tcp, Sock, Data} ->
-            gen_tcp:send(RSock, Data),
+        {ssl, Sock, Data} ->
+            ok = gen_tcp:send(RSock, Data),
             transfer_data(Sock, RSock);
         {tcp, RSock, Data} ->
-            gen_tcp:send(Sock, Data),
+            ok = ssl:send(Sock, Data),
             transfer_data(Sock, RSock);
-        {tcp_closed, Sock}->
-            gen_tcp:close(Sock);
-        {tcp_closed, RSock}->
-            gen_tcp:close(RSock);
-        {tcp_error, Sock, _Reason} ->
-            gen_tcp:close(Sock);
+        {ssl_error, Sock, _Reason} ->
+            ssl:close(Sock);
         {tcp_error, RSock, _Reason} ->
-            gen_tcp:close(RSock)
+            gen_tcp:close(RSock);
+        {tcp_closed, RSock} ->
+            ok;
+        {ssl_closed, Sock} ->
+            ok
     end.
