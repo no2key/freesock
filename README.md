@@ -7,6 +7,8 @@ freesock is a socks5 server. Inspired by [shadowsocks](https://github.com/clowwi
 
 Branch `master` is stable with production quality.
 
+Branch `ssl-socks` is in beta. Welcome to checkout and take a try.
+
 You can use freesock alone, or with [freeclient](https://github.com/goofansu/freeclient) (see Implementation).
 
 # Implementation #
@@ -42,6 +44,17 @@ Should you want to clone the freesock repository, you will also require git.
 # Todos #
 
 * ~~Add support to SSL~~ (Supported, please checkout ssl-socks branch.)
+
+# How to generate SSL test certificate #
+
+```
+openssl genrsa -out key.pem 1024
+
+openssl req -new -key key.pem -out request.pem
+
+openssl x509 -req -days 30 -in request.pem -signkey key.pem -out cert.pem
+
+```
 
 # Contact #
 
