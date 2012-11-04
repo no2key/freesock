@@ -3,13 +3,13 @@ freesock
 
 freesock is a socks5 server. Inspired by [shadowsocks](https://github.com/clowwindy/shadowsocks).
 
+You can use freesock alone, or build an `SSL over Tcp tunnel` with [freeclient](https://github.com/goofansu/freeclient) (see Implementation).
+
 # Notice #
 
 Branch `master` is stable with production quality.
 
 Branch `ssl-socks` is in beta. Welcome to checkout and take a try.
-
-You can use freesock alone, or with [freeclient](https://github.com/goofansu/freeclient) (see Implementation).
 
 # Implementation #
 
@@ -53,8 +53,9 @@ openssl genrsa -out key.pem 1024
 openssl req -new -key key.pem -out request.pem
 
 openssl x509 -req -days 30 -in request.pem -signkey key.pem -out cert.pem
-
 ```
+
+* Performance test
 
 # Contact #
 
