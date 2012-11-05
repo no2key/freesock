@@ -1,11 +1,12 @@
 {application, fs,
  [
   {description, ""},
-  {vsn, "1"},
+  {vsn, "1.2b"},
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
+                  stdlib,
+                  ssl
                  ]},
   {mod, { fs_app, []}},
   {env, []}
