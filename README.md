@@ -9,7 +9,9 @@ You can use freesock alone, or build an `SSL over Tcp tunnel` with [freeclient](
 
 Branch `master` is stable with production quality.
 
-Branch `ssl-socks` is in beta. Welcome to checkout and take a try.
+~~Branch `ssl-socks` is in beta. Welcome to checkout and take a try.~~
+
+Branch `master` is supporting SSL.
 
 # Implementation #
 
