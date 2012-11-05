@@ -1,5 +1,5 @@
 
--module(fs_sup).
+-module(tcp_acceptor_sup).
 
 -behaviour(supervisor).
 
@@ -24,7 +24,6 @@ start_link() ->
 %% ===================================================================
 
 init([]) ->
-    TcpAcceptorSupSpec = ?CHILD(tcp_acceptor_sup, supervisor),
-    EchoSpec = ?CHILD(echo, worker),
-    {ok, { {one_for_one, 5, 10}, [TcpAcceptorSupSpec, EchoSpec]} }.
+    TcpAcceptorSpec = ?CHILD(tcp_acceptor, worker),
+    {ok, { {simple_one_for_one, 5, 10}, [TcpAcceptorSpec]} }.
 
