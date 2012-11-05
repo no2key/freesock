@@ -44,6 +44,7 @@ Should you want to clone the freesock repository, you will also require git.
 # Todos #
 
 * ~~Add support to SSL~~ (Supported, please checkout ssl-socks branch.)
+* Performance test
 
 # How to generate SSL test certificate #
 
@@ -54,8 +55,6 @@ openssl req -new -key key.pem -out request.pem
 
 openssl x509 -req -days 30 -in request.pem -signkey key.pem -out cert.pem
 ```
-
-* Performance test
 
 # Contact #
 
