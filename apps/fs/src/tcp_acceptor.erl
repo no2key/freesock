@@ -17,15 +17,18 @@ start_link(LSock, SslOptions) ->
 %% gen_server callbacks
 %% ===================================================================
 init([LSock, SslOptions]) ->
-    gen_server:cast(self(), accept),
-    {ok, #state{listen_sock = LSock, ssl_options = SslOptions}}.
+    State = #state{listen_sock = LSock, ssl_options = SslOptions},
+    {ok, State, 0}.
 
-handle_cast(accept, State) ->
-    accept(State),
+handle_cast(_R, State) ->
     {noreply, State}.
 
 handle_call(_R, _F, State) ->
     {ok, [], State}.
+
+handle_info(timeout, State) ->
+    accept(State),
+    {noreply, State};
 
 handle_info(_Info, State) ->
     {noreply, State}.
