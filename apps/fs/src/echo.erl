@@ -3,7 +3,7 @@
 
 -export ([start_link/0]).
 -export ([init/1, handle_call/3, handle_cast/2, handle_info/2, terminate/2, code_change/3]).
--export ([accept/1, loop/1]).
+-export ([accept/1, go/0]).
 
 %% ===================================================================
 %% api
@@ -48,13 +48,19 @@ accept(LSock) ->
     inet:setopts(Sock, [{active, false}]),
     {ok, SslOptions} = application:get_env(fs, ssl_options),
     {ok, SslSock} = ssl:ssl_accept(Sock, SslOptions),
-    Pid = proc_lib:spawn_link(?MODULE, loop, [SslSock]),
+    Pid = proc_lib:spawn_link(?MODULE, go, []),
     ssl:controlling_process(SslSock, Pid),
+    Pid ! {go, SslSock},
     accept(LSock).
 
-% connection request
+go() ->
+    receive
+        {go, SslSock} ->
+            ssl:setopts(SslSock, [{active, true}]),
+            loop(SslSock)
+    end.
+
 loop(Sock) ->
-    ssl:setopts(Sock, [{active, true}]),
     receive
         {ssl, Sock, <<5, _, _>>} ->
             % initial greeting
