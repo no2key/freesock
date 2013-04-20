@@ -1,0 +1,102 @@
+2013-04-20 18:51:11 =ERROR REPORT====
+Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+2013-04-20 18:51:11 =ERROR REPORT====
+Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+2013-04-20 18:51:15 =ERROR REPORT====
+Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+2013-04-20 18:51:15 =ERROR REPORT====
+Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+2013-04-20 18:52:50 =ERROR REPORT====
+Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:52:52 =ERROR REPORT====
+Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.170.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.171.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.172.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.173.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.174.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.175.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.176.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.177.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.178.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.179.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:53:02 =ERROR REPORT====
+Error in process <0.180.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.185.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.186.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:54:02 =ERROR REPORT====
+Error in process <0.187.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+2013-04-20 18:58:08 =ERROR REPORT====
+Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,42}]}]}
+
+2013-04-20 18:59:57 =ERROR REPORT====
+Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3273>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+2013-04-20 18:59:57 =ERROR REPORT====
+Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3281>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+2013-04-20 19:00:35 =ERROR REPORT====
+Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+2013-04-20 19:00:35 =ERROR REPORT====
+Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+2013-04-20 19:18:47 =ERROR REPORT====
+Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+2013-04-20 19:18:47 =ERROR REPORT====
+Error in process <0.69.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+2013-04-20 19:38:13 =ERROR REPORT====
+Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+
+2013-04-20 19:40:54 =ERROR REPORT====
+Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+

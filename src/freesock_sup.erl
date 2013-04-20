@@ -1,5 +1,5 @@
 
--module(fs_sup).
+-module(freesock_sup).
 
 -behaviour(supervisor).
 
@@ -24,6 +24,5 @@ start_link() ->
 %% ===================================================================
 
 init([]) ->
-    EchoSpec = ?CHILD(echo, worker),
-    {ok, { {one_for_one, 5, 10}, [EchoSpec]} }.
+    {ok, { {one_for_one, 5, 10}, []} }.
 

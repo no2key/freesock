@@ -1,0 +1,212 @@
+2013-04-20 18:51:11.119 [error] emulator Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:11.121 [error] emulator Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:15.335 [error] emulator Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:15.337 [error] emulator Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:52:50.765 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:52:52.158 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.773 [error] emulator Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.776 [error] emulator Error in process <0.170.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.778 [error] emulator Error in process <0.171.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.780 [error] emulator Error in process <0.172.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.782 [error] emulator Error in process <0.173.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.783 [error] emulator Error in process <0.174.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.784 [error] emulator Error in process <0.175.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.785 [error] emulator Error in process <0.176.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.786 [error] emulator Error in process <0.177.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.789 [error] emulator Error in process <0.178.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.790 [error] emulator Error in process <0.179.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.799 [error] emulator Error in process <0.180.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.801 [error] emulator Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.802 [error] emulator Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.804 [error] emulator Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.805 [error] emulator Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.806 [error] emulator Error in process <0.185.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.807 [error] emulator Error in process <0.186.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.809 [error] emulator Error in process <0.187.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:58:08.046 [error] emulator Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,42}]}]}
+
+
+2013-04-20 18:59:57.570 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3273>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 18:59:57.960 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3281>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:00:35.841 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:00:35.842 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:18:47.321 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+
+2013-04-20 19:18:47.581 [error] emulator Error in process <0.69.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+
+2013-04-20 19:32:37.009 [error] <0.72.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.266 [error] <0.76.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.529 [error] <0.78.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.897 [error] <0.80.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:56.175 [error] <0.88.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:56.251 [error] <0.91.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.167 [error] <0.94.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.237 [error] <0.97.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.393 [error] <0.100.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.470 [error] <0.103.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:27.060 [error] <0.118.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:27.134 [error] <0.121.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:39.904 [error] <0.124.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:39.975 [error] <0.127.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:44.733 [error] <0.130.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:44.810 [error] <0.133.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:45.664 [error] <0.136.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:45.739 [error] <0.139.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.320 [error] <0.142.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.392 [error] <0.145.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.782 [error] <0.148.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.865 [error] <0.151.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.352 [error] <0.154.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.428 [error] <0.157.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.873 [error] <0.160.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.944 [error] <0.163.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:36:30.544 [error] <0.71.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:36:30.689 [error] <0.74.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:37:46.430 [error] <0.71.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:37:46.507 [error] <0.74.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:09.391 [error] <0.77.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:09.467 [error] <0.80.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:13.969 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+
+
+2013-04-20 19:40:54.423 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+
+
+2013-04-20 19:42:54.855 [error] <0.71.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:42:55.036 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:24.936 [error] <0.78.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.197 [error] <0.82.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.200 [error] <0.84.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.438 [error] <0.87.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.575 [error] <0.90.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.676 [error] <0.93.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.821 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:28.212 [error] <0.99.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:28.470 [error] <0.103.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:28.472 [error] <0.105.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:29.790 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:44.197 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:44.457 [error] <0.114.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:44.719 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:32.031 [error] <0.72.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:32.329 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:32.678 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:46:37.305 [error] <0.72.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:37.530 [error] <0.75.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:37.647 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.815 [error] <0.80.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.892 [error] <0.83.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.975 [error] <0.86.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:49.047 [error] <0.89.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:51.425 [error] <0.92.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:51.497 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:52.083 [error] <0.98.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:52.157 [error] <0.101.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:56.992 [error] <0.104.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:57.142 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:47:07.366 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:47:07.438 [error] <0.113.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:49:36.438 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:49:36.639 [error] <0.119.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:52:09.839 [error] <0.71.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:52:09.913 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:06:16.460 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:06:16.645 [error] <0.80.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:22:56.794 [error] <0.83.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:22:56.972 [error] <0.86.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:05.482 [error] <0.89.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:05.740 [error] <0.92.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.178 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.312 [error] <0.98.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.926 [error] <0.101.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:07.058 [error] <0.104.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:08.839 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:09.069 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:09.493 [error] <0.113.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:09.664 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:39:37.144 [error] <0.119.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:39:37.225 [error] <0.122.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:46:18.589 [error] <0.92.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.592 [error] <0.93.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.594 [error] <0.94.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.596 [error] <0.95.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.599 [error] <0.96.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.602 [error] <0.97.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.604 [error] <0.98.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.606 [error] <0.99.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.608 [error] <0.100.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.610 [error] <0.101.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.569 [error] <0.102.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.571 [error] <0.103.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.574 [error] <0.104.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.576 [error] <0.105.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.579 [error] <0.106.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.582 [error] <0.107.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.585 [error] <0.108.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.587 [error] <0.109.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.589 [error] <0.110.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.591 [error] <0.111.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:57:53.259 [error] <0.71.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:57:53.529 [error] <0.74.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:58:23.284 [error] <0.71.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:58:23.493 [error] <0.74.0>@socks5_protocol:loop_socket:93 Error loop socket:closed

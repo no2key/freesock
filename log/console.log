@@ -1,0 +1,1095 @@
+2013-04-20 18:47:51.577 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 18:47:51.584 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 18:47:51.595 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 18:51:11.119 [error] emulator Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:11.121 [error] emulator Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:15.335 [error] emulator Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:51:15.337 [error] emulator Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{ranch,accept_acks,[freesock],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,12}]}]}
+
+
+2013-04-20 18:52:47.815 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 18:52:47.821 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 18:52:47.830 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 18:52:50.765 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:52:52.158 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.773 [error] emulator Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.776 [error] emulator Error in process <0.170.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.778 [error] emulator Error in process <0.171.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.780 [error] emulator Error in process <0.172.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.782 [error] emulator Error in process <0.173.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.783 [error] emulator Error in process <0.174.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.784 [error] emulator Error in process <0.175.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.785 [error] emulator Error in process <0.176.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.786 [error] emulator Error in process <0.177.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.789 [error] emulator Error in process <0.178.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.790 [error] emulator Error in process <0.179.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:53:02.799 [error] emulator Error in process <0.180.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.801 [error] emulator Error in process <0.181.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.802 [error] emulator Error in process <0.182.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.804 [error] emulator Error in process <0.183.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.805 [error] emulator Error in process <0.184.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.806 [error] emulator Error in process <0.185.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.807 [error] emulator Error in process <0.186.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:54:02.809 [error] emulator Error in process <0.187.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,41}]}]}
+
+
+2013-04-20 18:55:18.123 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 18:55:18.129 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 18:55:18.139 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 18:57:54.546 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 18:57:54.552 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 18:57:54.562 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 18:58:08.046 [error] emulator Error in process <0.169.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["Unknown:~p",[{ok,<<3 bytes>>}]],[]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,42}]}]}
+
+
+2013-04-20 18:59:54.744 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 18:59:54.750 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 18:59:54.759 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 18:59:57.570 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3273>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 18:59:57.960 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{inet,get_opts,[#Port<0.3281>,[packet,active]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:00:33.607 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:00:33.613 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:00:33.622 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:00:35.841 [error] emulator Error in process <0.167.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:00:35.842 [error] emulator Error in process <0.168.0> on node 'freesock@127.0.0.1' with exit value: {undef,[{lager,info,["listen_opts:~p",[{ok,[{packet,0},{active,false}]}]],[]},{socks5_protocol,init,4,[{file,"src/socks5_protocol.erl"},{line,13}]}]}
+
+
+2013-04-20 19:05:21.358 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:05:21.364 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:05:21.373 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:05:24.276 [info] <0.167.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:05:24.639 [info] <0.168.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:02.537 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:06:02.544 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:06:02.551 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:06:11.073 [info] <0.78.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:11.074 [info] <0.79.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:15.351 [info] <0.80.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:15.353 [info] <0.81.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:16.698 [info] <0.82.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:16.699 [info] <0.83.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:19.837 [info] <0.84.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:06:19.839 [info] <0.85.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:07:43.756 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:07:43.762 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:07:43.768 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:07:47.000 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:07:47.001 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:07:47.002 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:07:48.376 [info] <0.69.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:07:48.377 [info] <0.69.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:07:48.377 [info] <0.69.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:11:31.292 [info] <0.75.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:11:31.293 [info] <0.75.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:11:31.294 [info] <0.75.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:11:31.670 [info] <0.76.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:11:31.670 [info] <0.76.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:11:31.671 [info] <0.76.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:12:18.415 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:12:18.421 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:12:18.428 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:12:23.195 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:12:23.196 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:12:23.196 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:12:23.197 [info] <0.69.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:12:23.198 [info] <0.69.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:12:23.198 [info] <0.69.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:12:55.075 [info] <0.75.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:12:55.076 [info] <0.75.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:12:55.076 [info] <0.75.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:12:55.439 [info] <0.76.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:12:55.440 [info] <0.76.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:12:55.440 [info] <0.76.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:13:06.167 [info] <0.78.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:13:06.167 [info] <0.78.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:13:06.168 [info] <0.78.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:13:06.170 [info] <0.79.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:13:06.170 [info] <0.79.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:13:06.171 [info] <0.79.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:13:56.099 [info] <0.81.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:13:56.099 [info] <0.81.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:13:56.100 [info] <0.81.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:13:56.102 [info] <0.82.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:13:56.102 [info] <0.82.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:13:56.103 [info] <0.82.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:14:13.247 [info] <0.84.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:14:13.248 [info] <0.84.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:14:13.248 [info] <0.84.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:14:13.576 [info] <0.85.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:14:13.577 [info] <0.85.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:14:13.577 [info] <0.85.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:18:44.585 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:18:44.591 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:18:44.597 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:18:47.319 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:18:47.320 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:18:47.320 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:18:47.321 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+
+2013-04-20 19:18:47.580 [info] <0.69.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:18:47.580 [info] <0.69.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:18:47.581 [info] <0.69.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:18:47.581 [error] emulator Error in process <0.69.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,binary_to_list,[1086078377],[]},{socks5_protocol,get_real_dst,1,[{file,"src/socks5_protocol.erl"},{line,51}]},{socks5_protocol,loop,2,[{file,"src/socks5_protocol.erl"},{line,28}]}]}
+
+
+2013-04-20 19:32:32.458 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:32:32.464 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:32:32.470 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:32:35.453 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:35.453 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:35.454 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:36.760 [info] <0.71.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:36.760 [info] <0.71.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:36.761 [info] <0.71.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:37.009 [error] <0.72.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.010 [info] <0.74.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:37.011 [info] <0.74.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:37.012 [info] <0.74.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:37.259 [info] <0.75.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:37.260 [info] <0.75.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:37.261 [info] <0.75.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:37.266 [error] <0.76.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.529 [error] <0.78.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:37.897 [error] <0.80.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:56.050 [info] <0.87.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:56.050 [info] <0.87.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:56.051 [info] <0.87.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:56.175 [error] <0.88.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:32:56.177 [info] <0.90.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:32:56.178 [info] <0.90.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:32:56.179 [info] <0.90.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:32:56.251 [error] <0.91.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.092 [info] <0.93.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:34:35.093 [info] <0.93.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:34:35.094 [info] <0.93.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:34:35.167 [error] <0.94.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.167 [info] <0.96.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:34:35.168 [info] <0.96.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:34:35.168 [info] <0.96.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:34:35.237 [error] <0.97.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.320 [info] <0.99.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:34:35.321 [info] <0.99.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:34:35.321 [info] <0.99.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:34:35.393 [error] <0.100.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:34:35.394 [info] <0.102.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:34:35.395 [info] <0.102.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:34:35.396 [info] <0.102.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:34:35.470 [error] <0.103.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:26.986 [info] <0.117.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:26.987 [info] <0.117.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:26.987 [info] <0.117.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:27.060 [error] <0.118.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:27.062 [info] <0.120.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:27.063 [info] <0.120.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:27.064 [info] <0.120.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:27.134 [error] <0.121.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:39.828 [info] <0.123.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:39.829 [info] <0.123.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:39.829 [info] <0.123.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:39.904 [error] <0.124.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:39.906 [info] <0.126.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:39.906 [info] <0.126.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:39.906 [info] <0.126.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:39.975 [error] <0.127.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:44.659 [info] <0.129.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:44.660 [info] <0.129.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:44.660 [info] <0.129.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:44.733 [error] <0.130.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:44.735 [info] <0.132.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:44.735 [info] <0.132.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:44.736 [info] <0.132.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:44.810 [error] <0.133.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:45.591 [info] <0.135.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:45.591 [info] <0.135.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:45.591 [info] <0.135.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:45.664 [error] <0.136.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:45.666 [info] <0.138.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:45.667 [info] <0.138.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:45.668 [info] <0.138.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:45.739 [error] <0.139.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.246 [info] <0.141.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:46.246 [info] <0.141.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:46.247 [info] <0.141.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:46.320 [error] <0.142.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.322 [info] <0.144.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:46.323 [info] <0.144.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:46.324 [info] <0.144.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:46.392 [error] <0.145.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.709 [info] <0.147.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:46.709 [info] <0.147.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:46.710 [info] <0.147.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:46.782 [error] <0.148.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:46.784 [info] <0.150.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:46.785 [info] <0.150.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:46.786 [info] <0.150.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:46.865 [error] <0.151.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.280 [info] <0.153.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:47.281 [info] <0.153.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:47.281 [info] <0.153.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:47.352 [error] <0.154.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.355 [info] <0.156.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:47.356 [info] <0.156.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:47.356 [info] <0.156.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:47.428 [error] <0.157.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.792 [info] <0.159.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:47.793 [info] <0.159.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:47.794 [info] <0.159.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:47.873 [error] <0.160.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:35:47.874 [info] <0.162.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:35:47.875 [info] <0.162.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:35:47.875 [info] <0.162.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:35:47.944 [error] <0.163.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:36:28.661 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:36:28.667 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:36:28.674 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:36:30.457 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:36:30.457 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:36:30.457 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:36:30.544 [error] <0.71.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:36:30.616 [info] <0.73.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:36:30.616 [info] <0.73.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:36:30.617 [info] <0.73.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:36:30.689 [error] <0.74.0>@socks5_protocol:loop_socket:81 Error recv data from socket:closed
+2013-04-20 19:37:44.318 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:37:44.324 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:37:44.330 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:37:46.340 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:37:46.341 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:37:46.341 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:37:46.430 [error] <0.71.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:37:46.432 [info] <0.73.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:37:46.433 [info] <0.73.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:37:46.433 [info] <0.73.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:37:46.507 [error] <0.74.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:09.315 [info] <0.76.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:38:09.316 [info] <0.76.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:38:09.316 [info] <0.76.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:38:09.391 [error] <0.77.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:09.393 [info] <0.79.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:38:09.394 [info] <0.79.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:38:09.394 [info] <0.79.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:38:09.467 [error] <0.80.0>@socks5_protocol:loop_socket:82 Error recv data from socket:closed
+2013-04-20 19:38:12.485 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:38:12.493 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:38:12.501 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:38:13.878 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:38:13.878 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:38:13.879 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:38:13.969 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+
+
+2013-04-20 19:40:51.142 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:40:51.149 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:40:51.155 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:40:54.331 [info] <0.68.0>@socks5_protocol:init:13 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:40:54.332 [info] <0.68.0>@socks5_protocol:loop:20 identify socks version
+2013-04-20 19:40:54.332 [info] <0.68.0>@socks5_protocol:loop:27 receive request details
+2013-04-20 19:40:54.423 [error] emulator Error in process <0.68.0> on node 'freesock@127.0.0.1' with exit value: {badarg,[{erlang,apply,[#Port<0.3273>,recv,[]],[]},{socks5_protocol,loop_socket,3,[{file,"src/socks5_protocol.erl"},{line,76}]},{socks5_protocol,start_loop,3,[{file,"src/socks5_protocol.erl"},{line,71}]}]}
+
+
+2013-04-20 19:42:50.604 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:42:50.610 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:42:50.616 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:42:54.764 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:42:54.764 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:42:54.765 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:42:54.855 [error] <0.71.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:42:54.963 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:42:54.964 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:42:54.964 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:42:55.036 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:24.677 [info] <0.76.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:24.678 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:24.678 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:24.929 [info] <0.77.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:24.930 [info] <0.77.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:24.931 [info] <0.77.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:24.936 [error] <0.78.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:24.937 [info] <0.80.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:24.938 [info] <0.80.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:24.939 [info] <0.80.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:25.188 [info] <0.81.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:25.189 [info] <0.81.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:25.190 [info] <0.81.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:25.197 [error] <0.82.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.200 [error] <0.84.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.324 [info] <0.86.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:25.325 [info] <0.86.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:25.326 [info] <0.86.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:25.438 [error] <0.87.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.439 [info] <0.89.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:25.440 [info] <0.89.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:25.441 [info] <0.89.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:25.575 [error] <0.90.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.576 [info] <0.92.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:25.577 [info] <0.92.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:25.578 [info] <0.92.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:25.676 [error] <0.93.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:25.821 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:27.953 [info] <0.97.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:27.954 [info] <0.97.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:27.954 [info] <0.97.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:28.204 [info] <0.98.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:28.205 [info] <0.98.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:28.206 [info] <0.98.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:28.212 [error] <0.99.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:28.214 [info] <0.101.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:28.215 [info] <0.101.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:28.215 [info] <0.101.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:28.464 [info] <0.102.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:28.464 [info] <0.102.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:28.465 [info] <0.102.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:28.470 [error] <0.103.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:28.472 [error] <0.105.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:29.790 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:43.962 [info] <0.109.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:43.963 [info] <0.109.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:43.963 [info] <0.109.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:44.197 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:44.199 [info] <0.112.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:44.200 [info] <0.112.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:44.201 [info] <0.112.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:44.450 [info] <0.113.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 19:43:44.451 [info] <0.113.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:43:44.452 [info] <0.113.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:43:44.457 [error] <0.114.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:43:44.719 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:29.334 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:44:29.339 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:44:29.346 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:44:31.766 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:44:31.767 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:44:32.013 [info] <0.71.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:44:32.013 [info] <0.71.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:44:32.031 [error] <0.72.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:32.329 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:44:32.436 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:44:32.437 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:44:32.678 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error recv data from socket:closed
+2013-04-20 19:46:33.797 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:46:33.803 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:46:33.810 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:46:37.040 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:37.040 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:37.288 [info] <0.71.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:37.289 [info] <0.71.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:37.305 [error] <0.72.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:37.409 [info] <0.74.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:37.410 [info] <0.74.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:37.530 [error] <0.75.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:37.647 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.740 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:48.741 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:48.815 [error] <0.80.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.816 [info] <0.82.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:48.817 [info] <0.82.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:48.892 [error] <0.83.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.900 [info] <0.85.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:48.901 [info] <0.85.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:48.975 [error] <0.86.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:48.975 [info] <0.88.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:48.976 [info] <0.88.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:49.047 [error] <0.89.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:51.339 [info] <0.91.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:51.340 [info] <0.91.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:51.425 [error] <0.92.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:51.428 [info] <0.94.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:51.428 [info] <0.94.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:51.497 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:52.011 [info] <0.97.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:52.012 [info] <0.97.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:52.083 [error] <0.98.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:52.085 [info] <0.100.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:52.087 [info] <0.100.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:52.157 [error] <0.101.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:56.922 [info] <0.103.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:56.923 [info] <0.103.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:56.992 [error] <0.104.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:46:57.065 [info] <0.106.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:46:57.066 [info] <0.106.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:46:57.142 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:47:07.289 [info] <0.109.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:47:07.290 [info] <0.109.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:47:07.366 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:47:07.369 [info] <0.112.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:47:07.369 [info] <0.112.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:47:07.438 [error] <0.113.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:49:36.331 [info] <0.115.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:49:36.331 [info] <0.115.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:49:36.438 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:49:36.558 [info] <0.118.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:49:36.559 [info] <0.118.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:49:36.639 [error] <0.119.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:49:41.335 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:49:41.342 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:49:41.350 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:49:43.190 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:49:43.190 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:49:43.281 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:49:43.282 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:50:45.228 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:50:45.234 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:50:45.240 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:50:46.997 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:50:46.997 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:50:47.086 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:50:47.087 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:51:05.232 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:51:05.232 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:51:05.308 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:51:05.309 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:51:08.514 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:51:08.520 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:51:08.527 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:51:09.559 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:51:09.560 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:51:09.653 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:51:09.654 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:52:08.106 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 19:52:08.112 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 19:52:08.118 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 19:52:09.749 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:52:09.750 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:52:09.839 [error] <0.71.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 19:52:09.842 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 19:52:09.842 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 19:52:09.913 [error] <0.74.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:06:16.387 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:06:16.387 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:06:16.460 [error] <0.77.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:06:16.571 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:06:16.572 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:06:16.645 [error] <0.80.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:22:56.723 [info] <0.82.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:22:56.723 [info] <0.82.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:22:56.794 [error] <0.83.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:22:56.899 [info] <0.85.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:22:56.900 [info] <0.85.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:22:56.972 [error] <0.86.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:05.382 [info] <0.88.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:05.383 [info] <0.88.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:05.482 [error] <0.89.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:05.594 [info] <0.91.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:05.595 [info] <0.91.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:05.740 [error] <0.92.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.096 [info] <0.94.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:06.096 [info] <0.94.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:06.178 [error] <0.95.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.180 [info] <0.97.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:06.180 [info] <0.97.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:06.312 [error] <0.98.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.722 [info] <0.100.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:06.723 [info] <0.100.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:06.926 [error] <0.101.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:06.929 [info] <0.103.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:06.930 [info] <0.103.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:07.058 [error] <0.104.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:08.730 [info] <0.106.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:08.730 [info] <0.106.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:08.839 [error] <0.107.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:08.840 [info] <0.109.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:08.841 [info] <0.109.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:09.069 [error] <0.110.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:09.415 [info] <0.112.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:09.415 [info] <0.112.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:09.493 [error] <0.113.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:38:09.495 [info] <0.115.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:38:09.495 [info] <0.115.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:38:09.664 [error] <0.116.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:39:37.047 [info] <0.118.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:39:37.047 [info] <0.118.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:39:37.144 [error] <0.119.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:39:37.147 [info] <0.121.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:39:37.148 [info] <0.121.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:39:37.225 [error] <0.122.0>@socks5_protocol:loop_socket:83 Error loop socket:closed
+2013-04-20 20:45:24.858 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:45:24.865 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:45:24.871 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:45:27.207 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:45:27.207 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:45:27.513 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:45:27.514 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.588 [info] <0.92.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.588 [info] <0.92.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.589 [error] <0.92.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.591 [info] <0.93.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.591 [info] <0.93.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.592 [error] <0.93.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.593 [info] <0.94.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.593 [info] <0.94.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.594 [error] <0.94.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.595 [info] <0.95.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.596 [info] <0.95.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.596 [error] <0.95.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.598 [info] <0.96.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.598 [info] <0.96.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.599 [error] <0.96.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.601 [info] <0.97.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.601 [info] <0.97.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.602 [error] <0.97.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.603 [info] <0.98.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.603 [info] <0.98.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.604 [error] <0.98.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.605 [info] <0.99.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.605 [info] <0.99.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.606 [error] <0.99.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.607 [info] <0.100.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.607 [info] <0.100.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.608 [error] <0.100.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:18.609 [info] <0.101.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:18.609 [info] <0.101.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:18.610 [error] <0.101.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.567 [info] <0.102.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.568 [info] <0.102.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.569 [error] <0.102.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.570 [info] <0.103.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.571 [info] <0.103.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.571 [error] <0.103.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.573 [info] <0.104.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.573 [info] <0.104.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.574 [error] <0.104.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.575 [info] <0.105.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.576 [info] <0.105.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.576 [error] <0.105.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.578 [info] <0.106.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.578 [info] <0.106.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.579 [error] <0.106.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.581 [info] <0.107.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.581 [info] <0.107.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.582 [error] <0.107.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.584 [info] <0.108.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.584 [info] <0.108.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.585 [error] <0.108.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.586 [info] <0.109.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.587 [info] <0.109.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.587 [error] <0.109.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.588 [info] <0.110.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.589 [info] <0.110.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.589 [error] <0.110.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:46:19.590 [info] <0.111.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:46:19.591 [info] <0.111.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:46:19.591 [error] <0.111.0>@socks5_protocol:connect:67 Connect remote server error:ehostunreach
+2013-04-20 20:47:59.677 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:47:59.686 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:47:59.692 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:48:01.651 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:01.652 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:01.770 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:01.770 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:03.498 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:03.499 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:03.585 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:03.586 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:04.206 [info] <0.82.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:04.207 [info] <0.82.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:04.288 [info] <0.85.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:04.289 [info] <0.85.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:04.771 [info] <0.88.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:04.772 [info] <0.88.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:04.858 [info] <0.91.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:04.859 [info] <0.91.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:05.110 [info] <0.92.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:05.110 [info] <0.92.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:05.544 [info] <0.95.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:05.544 [info] <0.95.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:05.631 [info] <0.98.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:05.631 [info] <0.98.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:06.149 [info] <0.101.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:06.149 [info] <0.101.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:06.234 [info] <0.104.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:06.235 [info] <0.104.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:06.743 [info] <0.107.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:06.743 [info] <0.107.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:06.834 [info] <0.110.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:06.835 [info] <0.110.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:07.845 [info] <0.115.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:07.845 [info] <0.115.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:07.937 [info] <0.118.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:07.938 [info] <0.118.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:08.188 [info] <0.119.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:08.189 [info] <0.119.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:09.005 [info] <0.122.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:09.006 [info] <0.122.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:09.088 [info] <0.125.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:09.089 [info] <0.125.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:09.809 [info] <0.130.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:09.809 [info] <0.130.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:09.892 [info] <0.133.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:09.892 [info] <0.133.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:10.327 [info] <0.136.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:10.327 [info] <0.136.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:10.424 [info] <0.139.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:10.425 [info] <0.139.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:22.538 [info] <0.142.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:22.539 [info] <0.142.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:22.702 [info] <0.145.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:22.703 [info] <0.145.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:23.613 [info] <0.148.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:23.614 [info] <0.148.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:23.863 [info] <0.149.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:23.864 [info] <0.149.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:48:24.774 [info] <0.152.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:48:24.774 [info] <0.152.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:51:59.511 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:51:59.517 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:51:59.523 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:52:00.965 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:52:00.965 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:52:01.258 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:52:01.259 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:53:08.461 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:53:08.468 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:53:08.475 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:53:11.304 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:53:11.304 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:53:11.413 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:53:11.414 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:53:23.133 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:53:23.133 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:53:23.256 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:53:23.257 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:54:30.119 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:30.125 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:30.132 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:32.723 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:54:32.724 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:54:32.928 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:54:32.929 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:54:47.272 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:47.278 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:47.285 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:54:49.421 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:54:49.421 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:54:49.421 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:54:49.527 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:54:49.528 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:54:49.529 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:55:14.928 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:55:14.934 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:55:14.940 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:55:16.576 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:55:16.577 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:55:16.577 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:55:16.825 [info] <0.71.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:55:16.826 [info] <0.71.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:55:16.826 [info] <0.71.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:55:17.970 [info] <0.74.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:55:17.971 [info] <0.74.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:55:17.971 [info] <0.74.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:55:18.217 [info] <0.77.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:55:18.218 [info] <0.77.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:55:18.219 [info] <0.77.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:56:11.747 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:56:11.753 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:56:11.759 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:56:13.278 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:56:13.278 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:56:13.279 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:56:13.401 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:56:13.402 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:56:13.402 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:56:17.291 [info] <0.76.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:56:17.291 [info] <0.76.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:56:17.291 [info] <0.76.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:56:17.529 [info] <0.79.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:56:17.530 [info] <0.79.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:56:17.531 [info] <0.79.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:57:50.843 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:57:50.849 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:57:50.855 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:57:53.100 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:57:53.101 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:57:53.101 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:57:53.259 [error] <0.71.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:57:53.401 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:57:53.402 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:57:53.403 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:57:53.529 [error] <0.74.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:58:21.487 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:58:21.493 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:58:21.499 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:58:23.155 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:58:23.155 [info] <0.68.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:58:23.155 [info] <0.68.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:58:23.284 [error] <0.71.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:58:23.287 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 20:58:23.287 [info] <0.73.0>@socks5_protocol:loop:22 identify socks version
+2013-04-20 20:58:23.288 [info] <0.73.0>@socks5_protocol:loop:29 receive request details
+2013-04-20 20:58:23.493 [error] <0.74.0>@socks5_protocol:loop_socket:93 Error loop socket:closed
+2013-04-20 20:59:18.079 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 20:59:18.085 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 20:59:18.091 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 20:59:20.544 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.544 [info] <0.68.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.545 [info] <0.69.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.546 [info] <0.69.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.546 [info] <0.70.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.546 [info] <0.70.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.547 [info] <0.71.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.547 [info] <0.71.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.548 [info] <0.72.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.548 [info] <0.72.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.550 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.550 [info] <0.73.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.551 [info] <0.74.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.551 [info] <0.74.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.552 [info] <0.75.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.552 [info] <0.75.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.553 [info] <0.76.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.553 [info] <0.76.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 20:59:20.554 [info] <0.77.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 20:59:20.554 [info] <0.77.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.403 [info] <0.78.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.404 [info] <0.78.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.404 [info] <0.79.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.404 [info] <0.79.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.405 [info] <0.80.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.405 [info] <0.80.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.406 [info] <0.81.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.406 [info] <0.81.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.406 [info] <0.82.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.407 [info] <0.82.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.408 [info] <0.83.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.409 [info] <0.83.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.409 [info] <0.84.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.410 [info] <0.84.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.410 [info] <0.85.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.410 [info] <0.85.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.411 [info] <0.86.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.411 [info] <0.86.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:00:54.412 [info] <0.87.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:00:54.413 [info] <0.87.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.857 [info] <0.88.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.858 [info] <0.88.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.859 [info] <0.89.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.859 [info] <0.89.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.860 [info] <0.90.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.860 [info] <0.90.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.861 [info] <0.91.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.862 [info] <0.91.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.862 [info] <0.92.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.863 [info] <0.92.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.979 [info] <0.93.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.979 [info] <0.93.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.980 [info] <0.94.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.981 [info] <0.94.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.982 [info] <0.95.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.982 [info] <0.95.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.983 [info] <0.96.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.983 [info] <0.96.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:15.984 [info] <0.97.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:15.985 [info] <0.97.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.742 [info] <0.98.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.742 [info] <0.98.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.743 [info] <0.99.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.743 [info] <0.99.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.744 [info] <0.100.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.745 [info] <0.100.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.745 [info] <0.101.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.745 [info] <0.101.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.746 [info] <0.102.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.746 [info] <0.102.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.747 [info] <0.103.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.748 [info] <0.103.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.748 [info] <0.104.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.749 [info] <0.104.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.749 [info] <0.105.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.750 [info] <0.105.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.750 [info] <0.106.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.750 [info] <0.106.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:16.751 [info] <0.107.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:16.751 [info] <0.107.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.429 [info] <0.108.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.429 [info] <0.108.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.430 [info] <0.109.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.430 [info] <0.109.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.431 [info] <0.110.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.431 [info] <0.110.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.432 [info] <0.111.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.432 [info] <0.111.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.433 [info] <0.112.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.433 [info] <0.112.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.435 [info] <0.113.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.435 [info] <0.113.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.436 [info] <0.114.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.436 [info] <0.114.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.437 [info] <0.115.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.437 [info] <0.115.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.438 [info] <0.116.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.438 [info] <0.116.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:17.439 [info] <0.117.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:17.439 [info] <0.117.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.114 [info] <0.118.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.114 [info] <0.118.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.115 [info] <0.119.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.115 [info] <0.119.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.116 [info] <0.120.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.116 [info] <0.120.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.117 [info] <0.121.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.117 [info] <0.121.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.118 [info] <0.122.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.118 [info] <0.122.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.119 [info] <0.123.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.120 [info] <0.123.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.120 [info] <0.124.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.121 [info] <0.124.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.121 [info] <0.125.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.121 [info] <0.125.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.122 [info] <0.126.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.122 [info] <0.126.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.123 [info] <0.127.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.123 [info] <0.127.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.894 [info] <0.128.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.894 [info] <0.128.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.895 [info] <0.129.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.895 [info] <0.129.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.896 [info] <0.130.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.897 [info] <0.130.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.897 [info] <0.131.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.898 [info] <0.131.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.898 [info] <0.132.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.899 [info] <0.132.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.900 [info] <0.133.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.900 [info] <0.133.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.901 [info] <0.134.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.901 [info] <0.134.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.902 [info] <0.135.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.902 [info] <0.135.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.903 [info] <0.136.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.903 [info] <0.136.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:18.904 [info] <0.137.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:18.904 [info] <0.137.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.497 [info] <0.138.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.497 [info] <0.138.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.498 [info] <0.139.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.499 [info] <0.139.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.500 [info] <0.140.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.500 [info] <0.140.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.501 [info] <0.141.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.501 [info] <0.141.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.502 [info] <0.142.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.502 [info] <0.142.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.504 [info] <0.143.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.504 [info] <0.143.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.505 [info] <0.144.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.505 [info] <0.144.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.506 [info] <0.145.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.506 [info] <0.145.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.506 [info] <0.146.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.507 [info] <0.146.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:19.508 [info] <0.147.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:19.508 [info] <0.147.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.361 [info] <0.148.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.361 [info] <0.148.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.362 [info] <0.149.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.363 [info] <0.149.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.364 [info] <0.150.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.364 [info] <0.150.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.365 [info] <0.151.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.365 [info] <0.151.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.366 [info] <0.152.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.366 [info] <0.152.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.367 [info] <0.153.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.368 [info] <0.153.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.368 [info] <0.154.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.369 [info] <0.154.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.369 [info] <0.155.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.370 [info] <0.155.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.370 [info] <0.156.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.370 [info] <0.156.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:24.371 [info] <0.157.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:24.372 [info] <0.157.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.185 [info] <0.158.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.186 [info] <0.158.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.187 [info] <0.159.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.189 [info] <0.159.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.190 [info] <0.160.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.191 [info] <0.160.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.192 [info] <0.161.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.193 [info] <0.161.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.194 [info] <0.162.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.195 [info] <0.162.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.197 [info] <0.163.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.198 [info] <0.163.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.199 [info] <0.164.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.199 [info] <0.164.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.200 [info] <0.165.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.200 [info] <0.165.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.201 [info] <0.166.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.201 [info] <0.166.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:01:28.202 [info] <0.167.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,true}]}
+2013-04-20 21:01:28.202 [info] <0.167.0>@socks5_protocol:loop:46 Unknown:{error,einval}
+2013-04-20 21:05:10.060 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:10.065 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:10.071 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:11.743 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:11.743 [info] <0.68.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:11.744 [info] <0.68.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:05:11.834 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:11.835 [info] <0.73.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:11.835 [info] <0.73.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:05:19.646 [info] <0.76.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:19.647 [info] <0.76.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:19.647 [info] <0.76.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:05:19.725 [info] <0.79.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:19.726 [info] <0.79.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:19.726 [info] <0.79.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:05:43.315 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:43.321 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:43.327 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 21:05:45.251 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:45.251 [info] <0.68.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:45.252 [info] <0.68.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:05:45.363 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:05:45.363 [info] <0.73.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:05:45.364 [info] <0.73.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:06.053 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:06.059 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:06.065 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:08.023 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:08.023 [info] <0.68.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:08.023 [info] <0.68.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:08.109 [info] <0.68.0>@socks5_protocol:loop_socket:84 received data:<<"GET / HTTP/1.1\r\nHost: www.google.com\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCookie: PREF=ID=e5ca53b2ee5a8fcb:U=aec0d3f1478c4e7f:FF=0:CR=2:TM=1361588396:LM=1361590166:S=c4KF-3hom7C4UANo; NID=67=eMOvmohszh0Cx74nHayZW-mEQqfo0ttcaIg7nKPlV57EMPT8qj3vYAkUrPPyKseP4Xz4bRvAZJD8yuJH5Ny12RtZqEtisGq8OPt4e1dgN0AprhMcr7C_33HNf-ldJRsp\r\nConnection: keep-alive\r\n\r\n">>
+2013-04-20 21:07:08.247 [info] <0.68.0>@socks5_protocol:loop_socket:84 received data:<<72,84,84,80,47,49,46,49,32,50,48,48,32,79,75,13,10,68,97,116,101,58,32,83,97,116,44,32,50,48,32,65,112,114,32,50,48,49,51,32,49,51,58,48,55,58,48,55,32,71,77,84,13,10,69,120,112,105,114,101,115,58,32,45,49,13,10,67,97,99,104,101,45,67,111,110,116,114,111,108,58,32,112,114,105,118,97,116,101,44,32,109,97,120,45,97,103,101,61,48,13,10,67,111,110,116,101,110,116,45,84,121,112,101,58,32,116,101,120,116,47,104,116,109,108,59,32,99,104,97,114,115,101,116,61,85,84,70,45,56,13,10,67,111,110,116,101,110,116,45,69,110,99,111,100,105,110,103,58,32,103,122,105,112,13,10,83,101,114,118,101,114,58,32,103,119,115,13,10,88,45,88,83,83,45,80,114,111,116,101,99,116,105,111,110,58,32,49,59,32,109,111,100,101,61,98,108,111,99,107,13,10,88,45,70,114,97,109,101,45,79,112,116,105,111,110,115,58,32,83,65,77,69,79,82,73,71,73,78,13,10,84,114,97,110,115,102,101,114,45,69,110,99,111,100,105,110,103,58,32,99,104,117,110,107,101,100,13,10,13,10,54,99,101,51,13,10,31,139,8,0,0,0,0,0,2,255,236,189,105,123,219,56,178,40,252,61,191,130,102,250,56,98,155,150,181,122,145,194,248,102,113,150,206,218,89,58,233,73,123,252,128,155,196,152,18,105,146,178,236,200,250,239,111,21,22,18,32,41,217,78,167,231,158,247,185,51,153,182,176,20,10,133,66,161,80,40,44,188,191,225,70,78,118,25,123,218,56,155,132,15,238,227,95,45,200,188,73,234,68,177,103,233,121,80,167,169,8,105,233,227,44,139,7,59,59,169,51,246,38,164,25,37,163,157,207,158,253,142,140,60,29,16,120,196,125,112,127,226,101,68,115,162,105,230,77,51,75,255,224,145,196,25,107,217,216,211,230,81,18,186,247,82,45,152,250,81,50,33,89,16,77,77,136,56,225,204,13,166,35,109,238,217,49,224,73,33,109,194,126,207,3,215,139,82,141,76,93,109,18,37,94,83,123,22,69,163,16,200,37,169,54,33,211,75,45,141,61,39,32,161,230,123,36,155,37,94,170,101,145,54,246,194,88,187,140,102,154,31,64,57,239,130,56,89,120,169,205,199,36,195,212,123,137,167,133,81,116,138,21,2,21,77,93,155,146,9,52,203,245,82,39,9,98,164,73,47,55,97,26,69,110,44,0,147,200,142,178,84,192,32,95,226,36,138,129,89,72,179,94,20,218,97,141,216,25,81,146,79,124,114,30,64,222,73,187,179,223,140,167,35,40,159,5,89,232,61,96,45,186,191,195,98,247,25,17,15,26,254,108,234,32,45,13,99,113,103,14,237,136,230,77,134,200,90,156,30,189,24,232,219,253,223,46,63,249,187,7,111,221,199,175,79,71,95,220,176,247,124,244,100,174,155,35,47,131,236,188,52,49,22,208,200,198,57,73,52,123,72,54,55,27,27,164,9,32,15,179,44,9,236,89,230,93,93,109,52,108,75,77,107,232,94,224,234,134,97,12,13,2,89,49,73,160,61,111,34,215,27,38,30,48,121,170,217,87,87,140,150,38,144,178,52,81,32,210,129,68,48,3,211,89,186,110,89,156,254,48,114,104,151,55,129,95,89,228,68,225,210,60,61,250,242,14,26,211,222,235,244,15,204,238,65,191,211,53,123,173,86,171,221,222,197,223,118,127,247,128,254,30,244,246,217,111,159,198,59,251,253,62,254,118,59,189,14,253,237,247,219,244,119,127,159,253,30,180,247,216,111,135,198,123,173,93,26,239,181,123,7,236,183,223,162,191,157,62,75,239,118,123,236,183,199,224,251,61,138,191,183,219,239,178,223,125,6,183,199,211,247,246,41,61,189,253,30,43,183,127,176,199,127,89,250,65,187,199,127,89,250,1,175,247,128,227,59,216,163,245,244,161,129,236,151,149,239,119,218,93,246,203,218,211,239,245,88,122,159,213,215,239,115,184,221,22,203,223,101,237,232,239,242,252,189,30,43,191,199,241,238,119,248,47,107,215,110,251,160,163,155,167,143,63,188,24,44,188,255,114,253,63,202,117,47,88,57,102,151,38,153,101,227,89,234,37,131,150,57,9,229,145,4,35,228,249,171,129,238,77,117,51,11,38,94,117,144,53,166,222,92,123,66,50,207,192,33,252,17,96,26,198,210,12,163,145,164,2,76,219,116,204,177,177,64,37,224,90,88,224,5,106,38,211,183,248,40,14,29,211,203,195,129,57,178,116,125,232,54,163,169,151,36,81,98,97,40,140,136,107,221,193,16,177,163,36,179,36,58,92,47,244,50,79,243,191,122,199,203,33,254,181,220,225,134,179,185,185,221,182,44,187,153,82,229,223,208,55,189,192,210,13,208,63,128,156,134,183,120,125,84,95,53,198,160,108,28,203,185,186,210,119,70,222,244,164,211,234,29,18,152,109,172,96,211,1,77,186,69,182,244,77,7,40,208,183,236,173,17,132,191,95,20,8,50,218,230,33,177,...>>
+2013-04-20 21:07:45.964 [info] <0.7.0> Application lager started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:45.969 [info] <0.7.0> Application ranch started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:45.976 [info] <0.7.0> Application freesock started on node 'freesock@127.0.0.1'
+2013-04-20 21:07:48.277 [info] <0.68.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:48.277 [info] <0.68.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:48.278 [info] <0.68.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:48.645 [info] <0.71.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:48.645 [info] <0.71.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:48.645 [info] <0.71.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:48.748 [info] <0.72.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:48.749 [info] <0.73.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:48.749 [info] <0.72.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:48.750 [info] <0.73.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:48.751 [info] <0.72.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:48.751 [info] <0.73.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:49.538 [info] <0.74.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,once}]}
+2013-04-20 21:07:49.538 [info] <0.75.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:49.539 [info] <0.74.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:49.539 [info] <0.75.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:49.540 [info] <0.74.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:49.541 [info] <0.75.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:53.945 [info] <0.76.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:53.946 [info] <0.76.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:53.947 [info] <0.76.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:54.197 [info] <0.77.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:54.198 [info] <0.77.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:54.198 [info] <0.77.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:54.568 [info] <0.78.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:54.569 [info] <0.78.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:54.569 [info] <0.78.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:54.717 [info] <0.75.0>@socks5_protocol:loop_socket:87 socket closed
+2013-04-20 21:07:54.718 [info] <0.72.0>@socks5_protocol:loop_socket:87 socket closed
+2013-04-20 21:07:54.819 [info] <0.79.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:54.819 [info] <0.79.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:54.820 [info] <0.79.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:55.195 [info] <0.80.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:55.196 [info] <0.80.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:55.196 [info] <0.80.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:55.816 [info] <0.81.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:55.817 [info] <0.81.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:55.817 [info] <0.81.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:56.068 [info] <0.82.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:56.068 [info] <0.82.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:56.069 [info] <0.82.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.018 [info] <0.83.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.018 [info] <0.84.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.018 [info] <0.85.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.019 [info] <0.83.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.019 [info] <0.84.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.019 [info] <0.85.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.020 [info] <0.83.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.020 [info] <0.84.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.021 [info] <0.85.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.052 [info] <0.86.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.053 [info] <0.86.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.053 [info] <0.86.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.241 [info] <0.87.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.241 [info] <0.87.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.242 [info] <0.87.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.276 [info] <0.88.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.277 [info] <0.89.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.278 [info] <0.90.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.278 [info] <0.88.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.278 [info] <0.91.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:57.279 [info] <0.89.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.279 [info] <0.90.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.279 [info] <0.91.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:57.279 [info] <0.88.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.280 [info] <0.89.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.280 [info] <0.90.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:57.281 [info] <0.91.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:58.022 [info] <0.92.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:58.022 [info] <0.93.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:58.023 [info] <0.94.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:58.023 [info] <0.95.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:58.023 [info] <0.92.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:58.024 [info] <0.93.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:58.024 [info] <0.94.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:58.024 [info] <0.95.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:58.025 [info] <0.92.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:58.025 [info] <0.93.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:58.025 [info] <0.94.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:58.025 [info] <0.95.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:58.098 [info] <0.96.0>@socks5_protocol:init:15 listen_opts:{ok,[{packet,0},{active,false}]}
+2013-04-20 21:07:58.098 [info] <0.96.0>@socks5_protocol:loop:24 identify socks version
+2013-04-20 21:07:58.099 [info] <0.96.0>@socks5_protocol:loop:31 receive request details
+2013-04-20 21:07:59.713 [info] <0.77.0>@socks5_protocol:loop_socket:87 socket closed
+2013-04-20 21:08:01.714 [info] <0.82.0>@socks5_protocol:loop_socket:87 socket closed
+2013-04-20 21:08:03.715 [info] <0.96.0>@socks5_protocol:loop_socket:87 socket closed

@@ -1,13 +1,12 @@
-{application, fs,
+{application, freesock,
  [
   {description, ""},
-  {vsn, "1.2b"},
+  {vsn, "1"},
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib,
-                  ssl
+                  stdlib
                  ]},
-  {mod, { fs_app, []}},
+  {mod, { freesock_app, []}},
   {env, []}
  ]}.
