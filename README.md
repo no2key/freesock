@@ -1,0 +1,4 @@
+erlang.tpl
+==========
+
+Project template
