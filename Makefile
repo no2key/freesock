@@ -36,7 +36,7 @@ $(error "Rebar not available on this system")
 endif
 
 .PHONY: all compile doc clean test dialyzer typer shell distclean pdf \
-  update-deps clean-common-test-data rebuild
+  update-deps clean-common-test-data rebuild deps
 
 all: deps compile dialyzer test
 

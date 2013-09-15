@@ -1,0 +1,8 @@
+{application,srv,
+             [{description,"socks5 server"},
+              {vsn,"0.0.1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{srv_app,[]}},
+              {env,[]},
+              {modules,[server,srv_app,srv_protocol,srv_sup]}]}.

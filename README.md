@@ -1,4 +1,4 @@
-erlang.tpl
+freesock
 ==========
 
-Project template
+freesock is a socks5 proxy.

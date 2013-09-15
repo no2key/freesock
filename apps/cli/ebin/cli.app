@@ -1,0 +1,8 @@
+{application,cli,
+             [{description,"socks5 client"},
+              {vsn,"0.0.1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{cli_app,[]}},
+              {env,[]},
+              {modules,[cli_app,cli_protocol,cli_sup,client]}]}.
