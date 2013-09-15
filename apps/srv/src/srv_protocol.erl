@@ -21,7 +21,7 @@ start_link(Ref, Socket, _Transport, _Opts) ->
 init(Ref, Socket) ->
     ok = proc_lib:init_ack({ok, self()}),
     ok = ranch:accept_ack(Ref),
-    ok = inet:setopts(Socket, [{active, once}]),
+    ok = inet:setopts(Socket, [binary, {active, once}, {packet, 4}, {reuseaddr, true}]),
     gen_server:enter_loop(?MODULE, [], #state{local=Socket}, ?TIMEOUT).
 
 handle_info({tcp, Socket, <<5,1,0>>}, #state{local=Socket} = State) ->
@@ -74,8 +74,8 @@ parse_addr_port(<<3, Len, Addr:Len/binary, Port:16>>) ->
 
 connect_remote(_, _, 0) -> {error, cannot_connect_remote};
 connect_remote(RemoteAddr, RemotePort, Retry) ->
-    Opts = [binary, {active, once}, {reuseaddr, true}],
-    case gen_tcp:connect(RemoteAddr, RemotePort, Opts) of
+    Opts = [{active, once}],
+    case gen_tcp:connect(RemoteAddr, RemotePort, Opts, timer:seconds(30)) of
         {ok, Socket} -> {ok, Socket};
         {error, _}  -> connect_remote(RemoteAddr, RemotePort, Retry-1)
     end.
