@@ -10,7 +10,7 @@
 %% ===================================================================
 
 start(_StartType, _StartArgs) ->
-    {ok, _} = ranch:start_listener(socks_client, 1,
+    {ok, _} = ranch:start_listener(socks_client, 100,
                                    ranch_tcp, [{port, 7000}],
                                    cli_protocol, []),
     cli_sup:start_link().
