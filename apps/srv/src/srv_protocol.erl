@@ -70,7 +70,7 @@ parse_addr_port(<<1, Addr:4/binary, Port:16>>) ->
 parse_addr_port(<<4, Addr:16/binary, Port:16>>) ->
     {list_to_tuple(binary_to_list(Addr)), Port};
 parse_addr_port(<<3, Len, Addr:Len/binary, Port:16>>) ->
-    {Addr, Port}.
+    {binary_to_list(Addr), Port}.
 
 connect_remote(_, _, 0) -> {error, cannot_connect_remote};
 connect_remote(RemoteAddr, RemotePort, Retry) ->
